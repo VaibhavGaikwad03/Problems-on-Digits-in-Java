@@ -1,5 +1,3 @@
-//Write a java program which accepts number from the user and return the count of odd digits
-
 import java.lang.*;
 import java.util.*;
 
