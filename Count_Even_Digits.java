@@ -1,4 +1,4 @@
-//Write a java program which accepts number from the user and return the count of even digits   
+//Write a java program which accepts number from the user and return the count of even digits 
 
 import java.lang.*;
 import java.util.*;
